@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World 2
+title: Nice World (note 2)
 author: Jiaqi Liu
 date: 2020-06-01
 ---
